@@ -4,6 +4,8 @@
 
 </div>
 
+[![jungsik's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungsikyeo&show_icons=true)](https://github.com/jungsikyeo/)
+
 ### Fullstack Architecture (Frontend & Backend Developer / DBA / Data Science)
 - Frontend Develop Skills : ReactJS, Vue.js, HTML5, CSS
 - Backend Develop Skills : JAVA, NestJS (with Node.js)
@@ -20,8 +22,6 @@
 - Docker (with Private NAS)
 - Toy Projects
 - Pictures & Snapshot (with [My Instagram](https://instagram.com/1985yjs))
-
-[![jungsik's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungsikyeo&show_icons=true)](https://github.com/jungsikyeo/)
 
 <div align=center>
 
