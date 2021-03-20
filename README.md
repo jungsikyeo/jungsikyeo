@@ -21,7 +21,7 @@
 - Toy Projects
 - Pictures & Snapshot (with [My Instagram](https://instagram.com/1985yjs))
 
-[![jungsik's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungsikyeo)](https://github.com/jungsikyeo/)
+[![jungsik's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungsikyeo&show_icons=true)](https://github.com/jungsikyeo/)
 
 <div align=center>
 
