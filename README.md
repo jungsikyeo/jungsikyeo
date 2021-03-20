@@ -1,9 +1,9 @@
 # Hello World! 🙋🏻‍♂️ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungsikyeo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=JungsikYeo&fontSize=80&animation=fadeIn)
-
 <div align=center>
  
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=JungsikYeo&fontSize=80&animation=fadeIn)
+
 ## I am a Full-Stack Architecture. (Frontend & Backend Developer / DBA)
 <br/>
 
@@ -69,6 +69,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/1985yjs/)](https://instagram.com/1985yjs/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saeminam@gmail.com)](mailto:saeminam@gmail.com)
 
-</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
+
+</div>
