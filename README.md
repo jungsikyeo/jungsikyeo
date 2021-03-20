@@ -4,7 +4,9 @@
 
 <div align=center>
  
-### I am a Full-Stack Architecture. (Frontend & Backend Developer / DBA)
+## I am a Full-Stack Architecture. (Frontend & Backend Developer / DBA)
+<br/>
+
 
 </div>
 
