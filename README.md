@@ -2,7 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=JungsikYeo&fontSize=80&animation=fadeIn)
 
+<div align=center>
+ 
 ### I am a Full-Stack Architecture. (Frontend & Backend Developer / DBA)
+
+</div>
 
 ### My Skills
 - Frontend Develop Skills
@@ -51,6 +55,8 @@
 ### License
 - ProDS for Data Science (from [![SDS Badge](https://img.shields.io/badge/SamsungSDS-1428A0?style=flat-square&logo=Samsung&logoColor=white)](https://www.samsungsds.com/)) 
 - Advanced for Software Programming Test (from [![SDS Badge](https://img.shields.io/badge/SamsungSDS-1428A0?style=flat-square&logo=Samsung&logoColor=white)](https://www.samsungsds.com/))
+
+##
 
 [![jungsik's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungsikyeo&show_icons=true)](https://github.com/jungsikyeo/)
 [![jungsik's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jungsikyeo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jungsikyeo/)
