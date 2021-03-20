@@ -37,7 +37,7 @@
 
 - IDE
    
-   [![Intellij Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)](https://www.jetbrains.com/idea/) [![VSCode Badge](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/)
+   [![Intellij Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)](https://www.jetbrains.com/idea/) [![VSCode Badge](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/) [![Eclipse Badge](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white)](https://www.eclipse.org/)
 
 ### Work of company
 - DBA
