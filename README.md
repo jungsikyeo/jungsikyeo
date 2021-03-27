@@ -42,7 +42,7 @@
 ### Work of company
 - DBA
 - DevOps
-- SRE (with [![Datadog Badge](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=Datadog&logoColor=white)](https://grafana.com/) [![Prometheus Badge](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)](https://prometheus.io/) [![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white)](https://grafana.com/))
+- SRE (with [![Datadog Badge](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=Datadog&logoColor=white)](https://datadog.com/) [![Prometheus Badge](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)](https://prometheus.io/) [![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white)](https://grafana.com/))
 - Team Communication (with [![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira) [![Confluence Badge](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white)](https://www.atlassian.com/software/confluence) [![Gitlab Badge](https://img.shields.io/badge/Gitlab-FCA121?style=flat-square&logo=Gitlab&logoColor=black)](https://about.gitlab.com/))
 
 
